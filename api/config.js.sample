@@ -1,0 +1,4 @@
+module.exports = {
+  AUTH0_DOMAIN: "changeme.auth0.com",
+  AUDIENCE: "https://tvmoviesapi"
+};
